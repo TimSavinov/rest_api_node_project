@@ -1,1 +1,1 @@
-# rest_api_node_project
+```npm run dev``` to start ^_^
